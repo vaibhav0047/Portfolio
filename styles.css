@@ -187,7 +187,7 @@ section .title:hover {
 /* home section styling */
 .home {
   display: flex;
-  background: url("images/1.png") no-repeat center;
+  background: url("/Portfolio/images/1.png") no-repeat center;
   background-size: cover;
   height: 100vh;
   color: #fff;
