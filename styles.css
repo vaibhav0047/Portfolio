@@ -678,7 +678,7 @@ footer {
     z-index: 999;
   }
   .home {
-    background: url("./Images/1.png");
+    background: url("/Portfolio/images/1.png") no-repeat center;
   }
   .menu-btn i.active:before {
     content: "\f00d";
@@ -760,7 +760,7 @@ footer {
     width: 100%;
   }
   .home {
-    background: url("./Images/1.png");
+    background: url("/Portfolio/images/1.png") no-repeat center;
   }
 }
 
@@ -785,7 +785,7 @@ footer {
     width: 150px;
   }
   .home {
-    background: url("./Images/1.png");
+    background: url("/Portfolio/images/1.png") no-repeat center;
   }
 }
 
